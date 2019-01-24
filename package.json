@@ -1,0 +1,25 @@
+{
+  "name": "simple-logjs",
+  "version": "0.0.1",
+  "description": "A very simple logger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lemuelmc/simple-logjs.git"
+  },
+  "keywords": [
+    "simple",
+    "log",
+    "logger",
+    "logjs"
+  ],
+  "author": "Lemuel Raganas <lemuel.raganas@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lemuelmc/simple-logjs/issues"
+  },
+  "homepage": "https://github.com/lemuelmc/simple-logjs#readme"
+}
